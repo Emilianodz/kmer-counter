@@ -1,0 +1,10 @@
+/target
+.DS_Store
+Thumbs.db
+
+
+/results
+kmer_table.txt
+file_registry.txt
+kmer_table.bin
+file_registry.bin

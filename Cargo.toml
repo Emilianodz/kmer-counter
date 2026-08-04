@@ -1,0 +1,11 @@
+[package]
+name = "kmer_counter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dashmap = { version = "6", features = ["serde"] }
+serde = { version = "1", features = ["derive"] }
+bincode = { version = "=2.0.1", features = ["serde"] }
+rayon = "1"
+clap = { version = "4", features = ["derive"] }
