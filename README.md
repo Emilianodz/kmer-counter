@@ -1,4 +1,4 @@
-# kmer_indexer
+# kmer_counter
 An extremely fast and memory-efficient genomic indexing engine for large-scale whole-genome analysis.
 
 Rust library for indexing canonical k-mers from FASTA files (one genome per
